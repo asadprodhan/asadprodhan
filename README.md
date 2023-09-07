@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### **I’m Asad Prodhan**
+### I’m Asad Prodhan
 
   
    
