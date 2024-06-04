@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://asadprodhan.github.io/">
-    <img src="https://img.shields.io/badge/Website-asadprodhan.github.io-red?style=flat-square">
+    <img src="https://img.shields.io/badge/W-asadprodhan.github.io-red?style=flat-square">
 </a>  
 <a href="https://asadprodhan.github.io/files/Asad_Prodhan_CV_10-07-2023.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
