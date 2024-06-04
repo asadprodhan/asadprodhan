@@ -20,7 +20,7 @@
     <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=flat&logo=GoogleScholar&logoColor=white&&color=0181FF'>
 </a>
 <a href="https://orcid.org/0000-0002-1320-3486">
-    <img src="https://img.shields.io/badge/ORCID-green?style=flat-square&logo=pypi&logoColor=white">
+    <img src="https://img.shields.io/badge/ORCID-green?style=flat-square&logo=ORCID&logoColor=white">
 </a>
 
 
