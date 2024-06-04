@@ -6,7 +6,10 @@
 
 <a href="https://asadprodhan.github.io/">
     <img src="https://img.shields.io/badge/Website-red?style=flat-square">
-</a>  
+</a> 
+<a href="https://x.com/Asad_Prodhan">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=Twitter">
+</a> 
 <a href="https://asadprodhan.github.io/files/Asad_Prodhan_CV_10-07-2023.pdf">
     <img src="https://img.shields.io/badge/CV-yellow?style=flat-square&logo=adobe">
 </a>  
