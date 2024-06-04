@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Website-red?style=flat-square">
 </a>  
 <a href="https://asadprodhan.github.io/files/Asad_Prodhan_CV_10-07-2023.pdf">
-    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
+    <img src="https://img.shields.io/badge/CV-yellow?style=flat-square&logo=adobe">
 </a>  
 <a href="https://www.linkedin.com/in/asadprodhan/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
