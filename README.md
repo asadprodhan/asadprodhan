@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/asadprodhan">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Asad+Prodhan;Laboratory+Scientist+%7C+Adjunct+Senior+Lecturer+%7C+Mentor;Diagnostic+Bioinformatics+%7C+Data+Automation+%7C+HTS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Dr+Asad+Prodhan;Laboratory+Scientist+%7C+Adjunct+Senior+Lecturer+%7C+Mentor;Diagnostic+Bioinformatics+%7C+Data+Automation+%7C+HTS" alt="Typing SVG" />
 </a>
 <br/>
 
