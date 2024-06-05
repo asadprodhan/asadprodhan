@@ -29,6 +29,7 @@
 
 <br/> 
 
+
 <!-- <a href="https://github.com/asadprodhan">
     <img src="https://github-readme-stats.vercel.app/api?username=asadprodhan&show_icons=true&count_private=true&show_icons=true&hide_border=true&hide_title=true&card_width=300px&hide_rank=true&bg_color=00000000&theme=dracula">
 </a> -->
@@ -39,9 +40,21 @@
 
 </p>
 
+
+<br/> 
+
+
 - 🔭 I work on genomics, bioinformatics, and supercomputing for high-resolution disease diagnosis and biosecurity surveillance
-- 🌱 I’m passionate about making bioinformatics intuitive  
+  
+- 🌱 I’m passionate about making bioinformatics intuitive
+  
 - 👯 I enjoy research in collaborative environments
-- 💬 Ask me about potential collaborations or hands-on training on "Nanopore Sequencing & Bioinformatics" 
-- 📫 I can be reached via prodhan82@gmail.com 
+  
+- 💬 Ask me about potential collaborations or hands-on training on "Nanopore Sequencing & Bioinformatics"
+  
+- 📫 I can be reached via prodhan82@gmail.com
+  
+
+<br/> 
+
 
